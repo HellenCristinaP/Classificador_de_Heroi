@@ -27,9 +27,13 @@ Se XP for maior ou igual a 10.001 = Radiante <br>
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
+### Desafio
+
+Eu fiquei um pouco confusa de onde começar, mas conforme o desenvolvimento o código ia pegando forma e eu pensava em várias maneiras que podia fazer, fui no mais simples, mas eficiente.
+
 ### Para rodar
 
-Faça um fork do repositório e instale o Node, depois coloque o código `node app.js` ou podem rodar com a extensão do VS Code chamada Run Code
+Faça um fork do repositório e instale o Node, depois coloque esse código no terminal `node app.js` (pelo VSCode, clique Ctrl + ; para abrir terminal) ou podem rodar com a extensão do VS Code chamada Run Code. Após instalar Run Code, vai no arquivo onde está o projeto, clique com o botão esquerdo e vai ter uma opção "Run Code", clique e vai executar.
 
 ## Acrescentado por mim: 
 
