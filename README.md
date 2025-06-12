@@ -1,11 +1,13 @@
-Um desafio feita pela DIO no bootcamp de Desenvolvedor Front-end da Ri Happy.
+# Contexto
+
+Um desafio feita pela DIO no bootcamp de Desenvolvedor Front-end da Ri Happy. Onde temos um array, com nomes e levels de jogadores, e quando roda o código, aparece cada jogador e o level dele.
 
 **O Que deve ser utilizado**
 
-- Variáveis
-- Operadores
-- Laços de repetição
-- Estruturas de decisões
+- Variáveis.
+- Operadores.
+- Laços de repetição. <sub>(podendo usar tanto while, quanto for)</sub>
+- Estruturas de decisões.
 
 ## Objetivo
 
