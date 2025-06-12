@@ -27,6 +27,10 @@ Se XP for maior ou igual a 10.001 = Radiante <br>
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
+### Para rodar
+
+Faça um fork do repositório e instale o Node, depois coloque o código `node app.js` ou podem rodar com a extensão do VS Code chamada Run Code
+
 ## Acrescentado por mim: 
 
 Criar um site onde você coloca seu nome e consegue aumentar seu level apertando um botão(Em andamento).
