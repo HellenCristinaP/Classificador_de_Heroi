@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classificador de Nível de Herói</title>
+</head>
+<body>
+    <h1>Bem-vindo ao Classificador de Nível de Herói</h1>
+    <p>Boa sorte</p>
+
+    <form action="" onsubmit="classificador(event)" id="formulario">
+        <label for="nome">Nome do Herói:</label>
+        <input type="text" id="nome" name="nome" required>
+        <button type="submit">Cadastrar</button>
+    </form>
+
+    <button id="aumentarLevel" onclick="aumentarLevel()">Aumentar o nível</button>
+
+    <p id="resultado"></p>
+    <script src="scripts/classificador.js"></script>
+</body>
+</html>
